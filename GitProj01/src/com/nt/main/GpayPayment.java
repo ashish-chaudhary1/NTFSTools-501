@@ -10,4 +10,8 @@ public class GpayPayment {
 		return user+" is using google pay";
 	}
 	
+	public String Gpay3(String user) {
+		return user+" is using google pay hello";
+		
+	}
 }
