@@ -12,6 +12,10 @@ public class GpayPayment {
 	
 	public String Gpay3(String user) {
 		return user+" is using google pay hello";
-		
 	}
+	
+	public String Gpay4(String user) {
+		return user+" is using google pay hello";
+	}
+	
 }
